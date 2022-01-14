@@ -1,1 +1,1 @@
-Tis is a description for the project
+This is a description for the project
